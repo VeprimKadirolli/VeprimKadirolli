@@ -2,7 +2,7 @@
 
 IT Technician | IT Support | Systems & Infrastructure
 
-I hold a Federal VET Diploma (CFC) in Business IT, obtained in June 2025 from EPSIC in Lausanne, Switzerland.
+I hold a Federal Diploma (CFC) in IT, obtained in June 2025 from EPSIC in Lausanne, Switzerland.
 
 I have practical experience in IT support, workstation deployment, user assistance and Microsoft environments.
 
